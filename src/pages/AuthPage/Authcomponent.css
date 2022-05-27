@@ -1,0 +1,23 @@
+.main-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.inputs {
+    padding: 10px 10px;
+    width: 300px;
+}
+
+.create-account-button {
+    margin-top: 20px;
+}
